@@ -1,0 +1,4 @@
+show ip interface brief
+show ip ospf neighbor
+show ip route ospf
+show ip protocols
