@@ -1,4 +1,3 @@
-CCNA-OSPF-Lab
 OSPF Single Area (4 Routers + Multiple Networks)
 ---
 
