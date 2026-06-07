@@ -2,8 +2,8 @@ CCNA-OSPF-Lab
 OSPF Single Area (4 Routers + Multiple Networks)
 ---
 
-This lab adds:
---------------------------------
+### This lab adds:
+
 4 routers
 
 Multiple networks
@@ -16,8 +16,8 @@ Verification with show commands
 
 PCs in different networks
 
-IP Addressing Plan
---------------------------------
+### IP Addressing Plan
+
 R1–R2 Link
 
 R1 g0/1: 10.1.12.1/24
@@ -42,8 +42,8 @@ R3 g0/2: 10.1.34.3/24
 
 R4 g0/2: 10.1.34.4/24
 
-Loopbacks (act as LAN networks)
---------------------------------
+### Loopbacks (act as LAN networks)
+
 R1: 1.1.1.1/32
 
 R2: 2.2.2.2/32
